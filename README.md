@@ -1,12 +1,10 @@
 # Python Programming Notes
 
 - 알고리즘 테스트 대비 파이썬 (Python) 소스코드 저장소입니다.
-<hr/>
 
 # Contents
 
-## Math
+**Math**
 
-- [find prime(return True or False)](https://google.com, "google link")
-- [find prime(return list)](https://google.com, "google link")
-<hr/>
+- [find prime(return True or False)](https://github.com/sehnara/Python-Programming-Notes/blob/master/Math/find_prime_boolean.py)
+- [find prime(return list)](https://github.com/sehnara/Python-Programming-Notes/blob/master/Math/find_prime_list.py)
