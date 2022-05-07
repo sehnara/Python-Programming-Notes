@@ -12,7 +12,7 @@
 **Sorting**
 **Searching**
 
-- [binary searching]()
+- [binary searching](https://github.com/sehnara/Python-Programming-Notes/blob/master/Searching/binary_searching.py)
   **Graph**
 
 **Data Structure**
