@@ -11,7 +11,11 @@
 
 **Sorting**
 **Searching**
-**Graph**
+
+- [binary searching]()
+  **Graph**
+
 **Data Structure**
 **String**
+
 **Dynamic Programming**
