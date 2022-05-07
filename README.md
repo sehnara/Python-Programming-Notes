@@ -9,13 +9,6 @@
 - [find prime(return True or False)](https://github.com/sehnara/Python-Programming-Notes/blob/master/Math/find_prime_boolean.py)
 - [find prime(return list)](https://github.com/sehnara/Python-Programming-Notes/blob/master/Math/find_prime_list.py)
 
-**Sorting**
 **Searching**
 
 - [binary searching](https://github.com/sehnara/Python-Programming-Notes/blob/master/Searching/binary_searching.py)
-  **Graph**
-
-**Data Structure**
-**String**
-
-**Dynamic Programming**
